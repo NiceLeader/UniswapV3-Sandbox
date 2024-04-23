@@ -1,0 +1,12 @@
+{
+  "name": "uniswapv3-sandbox",
+  "version": "1.0.0",
+  "description": "This repository provides a sandbox environment for deploying and interacting with Uniswap V3 contracts locally. It is designed to help developers understand and experiment with Uniswap V3 functionalities such as pool creation, liquidity management, and token swapping.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
